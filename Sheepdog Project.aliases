@@ -1,0 +1,9 @@
+[My Computer]
+My Computer = "172.22.11.1"
+
+[NI-myRIO-1900-031dd4c9]
+NI-myRIO-1900-031dd4c9 = "172.22.11.2"
+
+[NI-myRIO-1900-ME-E-Shop-4523-TA]
+NI-myRIO-1900-ME-E-Shop-4523-TA = "172.22.11.2"
+
